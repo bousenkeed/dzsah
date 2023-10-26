@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://funart.pro/uploads/posts/2022-08/thumbs/1659952829_61-funart-pro-p-fon-dlya-veb-stranitsi-krasivo-62.jpg);
+    background-size: cover;
+}
+
+.main-container {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+.name {
+    color: rgb(67, 150, 124);
+    border: 8px solid rgba(95, 241, 205, 0.874);
+    text-align: center;
+    padding: 50px;
+}
+
+.text {
+    color: rgb(48, 149, 117);
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+}
+
+.image {
+    width: 391px;
+    height: 217px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text2 {
+    color: rgb(48, 149, 117);
+    margin-top: 10px;
+}
